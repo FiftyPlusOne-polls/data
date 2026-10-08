@@ -4,7 +4,7 @@ Data for the following stories:
 
 "[We tracked every candidate in the 2026 primaries. Here's who voters are nominating.](https://blog.fiftyplusone.news/p/primary-project-2026)" published on July 31, 2026.
 
-"[Progressives won a lot of primaries this year. Can they win in November?](https://blog.fiftyplusone.news/p/8747869a-542f-429b-a301-6411ac2b928e) published on Oct. 8, 2026.
+"[Progressives won a lot of primaries this year. Can they win in November?]() published on Oct. 8, 2026.
 
 Data from before 2026 was archived from public data released by FiveThirtyEight.
 
